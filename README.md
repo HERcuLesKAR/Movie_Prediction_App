@@ -1,2 +1,1 @@
-# Movie Prediction App 
 
