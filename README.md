@@ -54,6 +54,9 @@ Neutral reviews: 30.00%
 
 The histogram of ratings will be displayed as a plot.
 
+![Screenshot (337)](https://github.com/user-attachments/assets/9a1be142-8799-4136-8c45-92f5408040f0)
+
+
 ## Dependencies
 
 - `requests`
